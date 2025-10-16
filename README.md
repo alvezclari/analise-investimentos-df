@@ -17,7 +17,7 @@ Para configurar e executar o projeto localmente, siga os passos abaixo:
 
 1. **Clonar repositório:**
    ```bash
-   git clone <(https://github.com/alvezclari/analise-investimentos-df.git)>
+   git clone https://github.com/alvezclari/analise-investimentos-df.git
    cd analise-investimentos-df
 2. **Criar ambiente virtual:** 
     ```bash
