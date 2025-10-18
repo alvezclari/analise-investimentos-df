@@ -53,13 +53,12 @@ analise-investimentos-df/
 │   │   └── raw/
 │   │       └── projetos_df_raw.json
 │   └── visualizacoes/
-│       ├── 01_distribuicao_valores.png
+│       ├── 01_faixa_valor.png
 │       ├── 02_top_orgaos_barras.png
 │       ├── 03_proporcao_orgaos_pizza.png
 │       ├── 04_evolucao_temporal.png
-│       ├── 05_box_status.png
-│       ├── 06_contagem_status.png
-│       └── 07_distribuicao_tipos_projeto.png
+│       ├── 05_status_projetos.png
+│       └── 06_distribuicao_tipos_projeto.png
 ├── README.md
 └── requirements.txt
 ```
